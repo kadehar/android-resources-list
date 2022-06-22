@@ -13,6 +13,7 @@
 9. [Инструменты Android разработчика](https://www.youtube.com/playlist?list=PLyfVjOYzujugEUT-7gYhONqB5Y1xszpCq)
 10. [Android Developer Fundamentals](https://www.youtube.com/playlist?list=PLlyCyjh2pUe9wv-hU4my-Nen_SvXIzxGB)
 11. [Разработка на Android](https://www.youtube.com/playlist?list=PLrCZzMib1e9ptI7bPXFG8X5xEiCBt5qYE)
+12. [Яндекс. Школа мобильной разработки 2021: Android](https://youtube.com/playlist?list=PLQC2_0cDcSKAVl_3u-3ZrEW2UFBUjDD97)
 
 ## Udemy
 1. [Learn Android Application Development](https://www.udemy.com/course/learn-android-application-development-y/)
